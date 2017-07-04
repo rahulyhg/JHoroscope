@@ -1,0 +1,1 @@
+from JHoroscope import Horoscope
